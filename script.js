@@ -9,7 +9,8 @@ const rinauthk = {
         "f4a9d89a-069a": false,
         "Trap2808": false,
         "xR3wwrsADGtRqWa2GdE6h": false,
-        "f4a9d89a-0998-45a4-8e51-d27a": false
+        "f4a9d89a-0998-45a4-8e51-d27a": false,
+        "Вымогатель Читов2000": true
     },
     "init": () => {console.log('kservice initialized');}
 };
