@@ -12,6 +12,8 @@ const rinauthk = {
         "f4a9d89a-0998-45a4-8e51-d27a": false,
         "Вымогатель Читов2000": false
     },
-    "init": () => {console.log('kservice initialized');}
+    "init": () => {console.log('server loader. Client loader.');}
 };
 rinauthk.init();
+
+console.log("plainD2KEYSAuthFenc load to [userscript]")
