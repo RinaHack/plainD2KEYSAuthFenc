@@ -52,7 +52,7 @@ const rinauthk = {
         "791b9db5-fda8-4f17-9a5a-95a73ec817b2": true,
         "9d7de2cd-f3b8-4be0-881d-4ca7a7ce1d62": false,
         "366d206d-3dc1-46be-984b-51c657ad9529": false,
-        "3341b2bf-b320-4e97-8836-8c9a5e51a2fc": false,
+        "3341b2bf-b320-4e97-8836-8c9a5e51a2fc": true,
         "a177f2ca-23ba-4e22-8290-3c612288b61f": false,
         "6387d70e-5274-456a-93dd-2a9244225928": false,
         "f6cc2666-8686-4791-8889-52fdc817b52a": false,
