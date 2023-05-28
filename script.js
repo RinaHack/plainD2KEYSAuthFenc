@@ -59,16 +59,13 @@ let kfhkvnkfhvbncvbmcvbm = false
 const rinauthk = {
     "D2": "f4a9d89a-0898-45a4-8e51-1427ed6bd27a",
     "k": {
-        "791b9db5-fda8-4f17-9a5a-95a73ec817b2": false,
-        "9d7de2cd-f3b8-4be0-881d-4ca7a7ce1d62": false,
-        "366d206d-3dc1-46be-984b-51c657ad9529": false,
-        "3341b2bf-b320-4e97-8836-8c9a5e51a2fc": false,
-        "a177f2ca-23ba-4e22-8290-3c612288b61f": false,
-        "6387d70e-5274-456a-93dd-2a9244225928": false,
-        "f6cc2666-8686-4791-8889-52fdc817b52a": false,
-        "a5f3ad66-2599-4e5b-a202-ee496370b29c": false,
-        "d0db95c1-3a77-442f-9aec-bae7e1e35e3d": false,
-        "62d03525-f234-417e-94c8-cab0be0fc672": false
+        'd9ee1b09-5bb9-4ed7-8ceb-e0fc87b32f57': false,
+        '9eeef858-7050-4c15-b96d-a19c2ef54b4c': false,
+        '946183a3-ed95-40c5-9f34-bdbb6a67de07': false,
+        '1b7cce97-d4e0-41ed-b87f-46e2ce2be8b8': false,
+        'ae5793c3-5875-499d-8d8f-fc8dfd49c6bc': false,
+        '26f7fa2c-cd6c-45a8-94bb-8dea4d70bf4e': false,
+        '88f37442-5142-4d75-a4e9-4bcbff7e9cd3': false
     },
     "init": () => {console.log('server loader. Client loader.');}
 };
