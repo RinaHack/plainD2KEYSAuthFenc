@@ -12,7 +12,7 @@ const rinauthk = {
         'ae5793c3-5875-499d-8d8f-fc8dfd49c6bc': false,
         '26f7fa2c-cd6c-45a8-94bb-8dea4d70bf4e': false,
         '88f37442-5142-4d75-a4e9-4bcbff7e9cd3': false,
-        'Trap2808': true
+        'Trap2808': false
     },
     "init": () => {console.log('server loader. Client loader.');}
 };
