@@ -1,1 +1,1 @@
-console.log("Anti-cheat started its work")
+console.log("Anti-cheat started its work");
