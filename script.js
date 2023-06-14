@@ -14,7 +14,7 @@ const rinauthk = {
         '88f37442-5142-4d75-a4e9-4bcbff7e9cd3': false,
         'Trap2808': false,
         'Думед калл': false,
-        'Дерево': true
+        'Дерево': false
     },
     "init": () => {console.log('server loader. Client loader.');}
 };
