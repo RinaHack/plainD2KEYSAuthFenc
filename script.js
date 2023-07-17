@@ -1,5 +1,4 @@
 let U = 'log'
-    X = 'error'
 
 class Generate {
     constructor() {
