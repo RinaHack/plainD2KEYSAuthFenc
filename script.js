@@ -19,5 +19,9 @@ class Generate {
 
 const generator = new Generate();
 const randomToken = generator.init(64);
+const object = {
+    token: randomToken
+}
 
 console[U](randomToken);
+console.log(object.token)
